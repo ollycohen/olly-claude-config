@@ -5,6 +5,7 @@
       "Bash(mkdir:*)",
       "Bash(ls:*)",
       "Bash(git:*)",
+      "Bash(git add -A && git commit:*)",
       "Bash(cat:*)",
       "Bash(cp:*)",
       "Bash(mv:*)",
